@@ -1,0 +1,8 @@
+---
+project-repositories:
+- name: "reporting"
+  description: "A spring-cli catalog poc."
+  url: "https://github.com/RalphMarkham/spring-cli-repo?subPath=reporting-app"
+  tags:
+  - "java-17"
+  - "boot-3.1.x"
